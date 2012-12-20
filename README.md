@@ -8,3 +8,7 @@ A single php file to manage your files in a directory
 
 Put the fmanager.php to your desired location in your webroot and start using it.
 e.g. http://example.com/fmanager.php
+
+
+For more information goto:
+http://prasun.net/one-very-basic-file-manager-for-the-web/
