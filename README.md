@@ -11,3 +11,4 @@ e.g. http://example.com/fmanager.php
 
 
 For more information goto:
+http://www.prasun.net/2012/09/one-very-basic-file-manager-for-web.html
